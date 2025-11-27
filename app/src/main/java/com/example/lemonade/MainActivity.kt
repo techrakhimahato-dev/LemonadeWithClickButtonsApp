@@ -174,7 +174,6 @@ fun LemonTextAndImage(
 @Preview(showBackground = true)
 @Composable
 fun LemonPreview() {
-
     LemonadeTheme() {
         LemonadeApp()
     }
