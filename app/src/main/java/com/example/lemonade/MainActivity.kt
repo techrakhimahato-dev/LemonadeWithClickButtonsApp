@@ -145,6 +145,7 @@ fun LemonTextAndImage(
     modifier: Modifier = Modifier
 ) {
     Box(
+
         modifier = modifier
     ) {
         Column(
